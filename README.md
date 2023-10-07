@@ -58,3 +58,16 @@ npm start
 
 5. You can then see the page on: http://localhost:3000.
 # Exchange-Buddy
+
+## Hva jeg har lært på prosjektet
+
+- Her har jeg lært å samarbede med flere personer over et stort prosjekt.
+- Bruk av agile metoder og modeller for å planelegge og utvikle prosjektet (Scrum, Kanban, modelleringer)
+
+## Personer jeg har jobbet sammen med
+
+- [@AdrianBerget](https://github.com/ab596213)
+- [@AmundFremming](https://github.com/Amund-Fremming)
+- [@HaraldNilsen](https://github.com/haraldnilsen)
+- [@SindreKjelsrud](https://github.com/SindreKjelsrud)
+

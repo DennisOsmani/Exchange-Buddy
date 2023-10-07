@@ -2,6 +2,9 @@
 
 Prosjektgruppe 10
 
+## Demo
+- https://www.youtube.com/watch?v=DHf8ubIZEZo&t=1s
+
 ## Info
 
 Our vision was to help exchange students have an easier way to find a place to live.
